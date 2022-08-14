@@ -1,6 +1,8 @@
 Preston's Developer Links
 
 Topics:
-- [Web Development](webdev)
+
+- [HTML & CSS](./webdev)
+- [Javascrip](./javascript)
 - [Azure](./azure)
 - [React](./react)
