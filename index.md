@@ -2,6 +2,7 @@
 - [React](./react)
 - [Python](./python)
 - [Azure](./azure)
+- [Maps](./maps)
 
 # Reference
 - [Markdown Guide](https://www.markdownguide.org/)
