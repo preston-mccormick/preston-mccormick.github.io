@@ -6,7 +6,7 @@
 - [ArcGIS Online](https://www.arcgis.com/apps/mapviewer/index.html)
 - [OpenStreetMap](https://www.openstreetmap.org/)
 - [free-map.org](https://free-map.org/#40.5,-105.0,9z)
-- [USGS topoView](https://ngmdb.usgs.gov/topoview/viewer/#9/40.5/-105.0) Find USGS totp map images
+- [USGS topoView](https://ngmdb.usgs.gov/topoview/viewer/#9/40.5/-105.0) Find USGS topo map images
 - [USGS National Water Dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 - [Census Bureau](https://www.census.gov/programs-surveys/geography/data/interactive-maps.html)
 - [CalTopo](https://caltopo.com/map.html#ll=40.5,-105.065&z=9) Cell Coverage, Fire History, Slope, Motor Vehicle
