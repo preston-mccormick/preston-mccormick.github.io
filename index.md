@@ -1,5 +1,4 @@
-# Sections
-- [Web](./webdev)
+- [Web Development](./webdev)
 - [React](./react)
 - [Python](./python)
 - [Azure](./azure)
